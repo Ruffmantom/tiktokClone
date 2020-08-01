@@ -24,7 +24,7 @@ function App() {
               song={song}
               likes={likes}
               messages={messages}
-              shares={shares}
+              shares={shares} 
             />
           )
         )}
